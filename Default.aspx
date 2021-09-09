@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is  a simple  Application
+            <h1> This is  an Example of showing how to use Azure CLI</h1> 
         </div>
     </form>
 </body>
